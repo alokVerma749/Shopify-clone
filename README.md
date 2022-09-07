@@ -39,7 +39,7 @@
 
 ## About The Project
 
-<img align="centre" src="https://github.com/alokVerma749/Shopify-clone/blob/master/Shopify%20Video/Untitled%20design.gif"/>
+<img align="centre" src="https://github.com/alokVerma749/Shopify-clone/blob/master/shopify%20thumbnails/GIF.gif"/>
 
 <p align="right">(<a href="#top"> back to top </a>)</p>
 
