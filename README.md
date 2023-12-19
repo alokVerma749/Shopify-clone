@@ -20,6 +20,10 @@
   </p>
 </div>
 
+
+![image](https://github.com/alokVerma749/Shopify-clone/assets/87599400/d2bbf5e9-e82c-4e00-8411-67ef285f3c05)
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
